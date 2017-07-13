@@ -11,6 +11,10 @@ collections:
   - bookCategories
   - ceroAtres
   - seis
+  - tres
+  - nueve
+  - doce
+  - familia
 
 # Google webmaster tools
 google_verify:
@@ -30,37 +34,34 @@ disqus_shortname: myshortname
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: F9E000 #80B3FF
+  primary: e0ca00 #80B3FF
+  #2B9B9E
   primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 94CDC8 #FD6E8A
-  secondary-dark: A2122F
+  secondary: 00A599 #FD6E8A
+  secondary-dark: 233140
 
 # Footer settings
 footer:
   location: Dirección
   social: Encontranos en
-  credits: Agrademos a
+  credits: Nos apoyan
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
   - title: facebook
     url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
 
 # Postal address (add as many lines as necessary)
 address:
   - line:  Maldonado 2140 esquina Requena
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
-
+credits:
+  - photo: anii.jpg
+    url:
+  - photo: chamber.jpg
+  - photo: ntn.jpg
+    url: http://delsol.uy/notoquennada
 # Build settings
 markdown: kramdown
 permalink: pretty

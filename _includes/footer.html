@@ -21,9 +21,17 @@
 		                    {% endfor %}
                         </ul>
                     </div>
-                    <div class="footer-col col-md-4">
+                    <div class="col-md-4">
                         <h3>{{ site.footer.credits }}</h3>
-                        <p>{{ site.credits }}</p>
+                        <ul class="list-inline">
+                            {% for credit in site.credits %}
+                            <li>
+                                <a href="{{ credit.url }}">
+                                    <img src="{{site.baseUrl}}/img/logos/{{ credit.photo }}" width="50px" alt="{{ object.alt }}">
+                                </a>
+                            </li>
+                            {% endfor %}
+                        </ul>
                     </div>
                 </div>
             </div>

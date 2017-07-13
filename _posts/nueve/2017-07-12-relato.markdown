@@ -1,0 +1,6 @@
+---
+layout: libro
+title: Relato desde el balcón
+flipbook: https://www.yumpu.com/xx/embed/view/le7A5vY6Pi1c9GOw
+permalink: /libros/relato/
+---

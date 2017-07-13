@@ -1,0 +1,6 @@
+---
+layout: libro
+title: Mandá la mandala
+flipbook: https://www.yumpu.com/es/embed/view/QTwNVGuI7W6KO8tX
+permalink: /libros/manda/
+---

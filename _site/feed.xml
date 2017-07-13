@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-07-13T02:07:19-03:00</updated>
+  <updated>2017-07-13T12:10:13-03:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -18,6 +18,262 @@
   
 
   
+  
+    <entry>
+      <title type="html">Ser delegado de la clase</title>
+      <link href="http://localhost:4000/libros/superbueno/" rel="alternate" type="text/html" title="Ser delegado de la clase" />
+      <published>2017-07-12T00:00:00-03:00</published>
+      <updated>2017-07-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/libros/superbueno</id>
+      <content type="html" xml:base="http://localhost:4000/libros/superbueno/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Sentimientos encontrados</title>
+      <link href="http://localhost:4000/libros/sentimientos_encontrados/" rel="alternate" type="text/html" title="Sentimientos encontrados" />
+      <published>2017-07-12T00:00:00-03:00</published>
+      <updated>2017-07-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/libros/sentimientos_encontrados</id>
+      <content type="html" xml:base="http://localhost:4000/libros/sentimientos_encontrados/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Relatos desde el balcon</title>
+      <link href="http://localhost:4000/libros/cara_de_tomate/" rel="alternate" type="text/html" title="Relatos desde el balcon" />
+      <published>2017-07-12T00:00:00-03:00</published>
+      <updated>2017-07-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/libros/relato</id>
+      <content type="html" xml:base="http://localhost:4000/libros/cara_de_tomate/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Mandá la mandala</title>
+      <link href="http://localhost:4000/libros/manda/" rel="alternate" type="text/html" title="Mandá la mandala" />
+      <published>2017-07-12T00:00:00-03:00</published>
+      <updated>2017-07-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/libros/manda</id>
+      <content type="html" xml:base="http://localhost:4000/libros/manda/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">La ventana abierta</title>
+      <link href="http://localhost:4000/libros/la_ventana_abierta/" rel="alternate" type="text/html" title="La ventana abierta" />
+      <published>2017-07-12T00:00:00-03:00</published>
+      <updated>2017-07-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/libros/la_ventana_abierta</id>
+      <content type="html" xml:base="http://localhost:4000/libros/la_ventana_abierta/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">La princesa quiere diversión real</title>
+      <link href="http://localhost:4000/libros/la_princesa/" rel="alternate" type="text/html" title="La princesa quiere diversión real" />
+      <published>2017-07-12T00:00:00-03:00</published>
+      <updated>2017-07-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/libros/la_princesa</id>
+      <content type="html" xml:base="http://localhost:4000/libros/la_princesa/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Elefante bimbuly</title>
+      <link href="http://localhost:4000/libros/elefante_bimbuly/" rel="alternate" type="text/html" title="Elefante bimbuly" />
+      <published>2017-07-12T00:00:00-03:00</published>
+      <updated>2017-07-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/libros/elefante_bimbuly</id>
+      <content type="html" xml:base="http://localhost:4000/libros/elefante_bimbuly/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Celeste la más transparente</title>
+      <link href="http://localhost:4000/libros/celeste/" rel="alternate" type="text/html" title="Celeste la más transparente" />
+      <published>2017-07-12T00:00:00-03:00</published>
+      <updated>2017-07-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/libros/celeste</id>
+      <content type="html" xml:base="http://localhost:4000/libros/celeste/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
   
     <entry>
       <title type="html">Ser delegado de la clase</title>
@@ -58,262 +314,6 @@
       <updated>2017-07-12T00:00:00-03:00</updated>
       <id>http://localhost:4000/libros/la_charla_del_locker</id>
       <content type="html" xml:base="http://localhost:4000/libros/la_charla_del_locker/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Isabella la liebre</title>
-      <link href="http://localhost:4000/libros/isabella_la_liebre/" rel="alternate" type="text/html" title="Isabella la liebre" />
-      <published>2017-07-12T00:00:00-03:00</published>
-      <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/isabella_la_liebre</id>
-      <content type="html" xml:base="http://localhost:4000/libros/isabella_la_liebre/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Ser delegado de la clase</title>
-      <link href="http://localhost:4000/libros/gato_vaca/" rel="alternate" type="text/html" title="Ser delegado de la clase" />
-      <published>2017-07-12T00:00:00-03:00</published>
-      <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/gato_vaca</id>
-      <content type="html" xml:base="http://localhost:4000/libros/gato_vaca/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">El equipo</title>
-      <link href="http://localhost:4000/libros/equipo/" rel="alternate" type="text/html" title="El equipo" />
-      <published>2017-07-12T00:00:00-03:00</published>
-      <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/equipo</id>
-      <content type="html" xml:base="http://localhost:4000/libros/equipo/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">El libro mágico del circo</title>
-      <link href="http://localhost:4000/libros/el_libro_magico_del_circo/" rel="alternate" type="text/html" title="El libro mágico del circo" />
-      <published>2017-07-12T00:00:00-03:00</published>
-      <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/el_libro_magico_del_circo</id>
-      <content type="html" xml:base="http://localhost:4000/libros/el_libro_magico_del_circo/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">El día de las puertas abiertas</title>
-      <link href="http://localhost:4000/libros/el_dia_de_las_puertas_abiertas/" rel="alternate" type="text/html" title="El día de las puertas abiertas" />
-      <published>2017-07-12T00:00:00-03:00</published>
-      <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/el_dia_de_las_puertas_abiertas</id>
-      <content type="html" xml:base="http://localhost:4000/libros/el_dia_de_las_puertas_abiertas/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">El álbum</title>
-      <link href="http://localhost:4000/libros/el_album/" rel="alternate" type="text/html" title="El álbum" />
-      <published>2017-07-12T00:00:00-03:00</published>
-      <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/el_album</id>
-      <content type="html" xml:base="http://localhost:4000/libros/el_album/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Diario Kids</title>
-      <link href="http://localhost:4000/libros/diario_kids/" rel="alternate" type="text/html" title="Diario Kids" />
-      <published>2017-07-12T00:00:00-03:00</published>
-      <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/diario_kids</id>
-      <content type="html" xml:base="http://localhost:4000/libros/diario_kids/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Diario Infímo</title>
-      <link href="http://localhost:4000/libros/diario_infimo/" rel="alternate" type="text/html" title="Diario Infímo" />
-      <published>2017-07-12T00:00:00-03:00</published>
-      <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/diario_infimo</id>
-      <content type="html" xml:base="http://localhost:4000/libros/diario_infimo/"></content>
 
       
       

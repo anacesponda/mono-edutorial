@@ -1,0 +1,6 @@
+---
+layout: libro
+title: LA CIUDAD DE TODOS LOS COLORES DEL MUNDO
+flipbook: https://www.yumpu.com/pt/embed/view/GaVrXeCiDNEzMv7w
+permalink: /libros/la_ciudad/
+---

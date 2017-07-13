@@ -1,0 +1,6 @@
+---
+layout: libro
+title: Celeste la más transparente
+flipbook: https://www.yumpu.com/es/embed/view/h5CSjqleziB2xXMg
+permalink: /libros/celeste/
+---
