@@ -1,0 +1,6 @@
+---
+layout: libro
+title: El álbum
+flipbook: https://www.yumpu.com/xx/embed/view/s7XtrRTFkahCqUp1
+permalink: /libros/el_album/
+---

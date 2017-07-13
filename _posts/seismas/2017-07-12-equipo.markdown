@@ -1,0 +1,6 @@
+---
+layout: libro
+title: El equipo
+flipbook: https://www.yumpu.com/es/embed/view/9IohXOEPpneS5HFL
+permalink: /libros/equipo/
+---

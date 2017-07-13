@@ -1,0 +1,6 @@
+---
+layout: libro
+title: Palabras que cuentan historias III
+flipbook: https://www.yumpu.com/es/embed/view/om21uC3qpETQOVKx
+permalink: /libros/palabras3/
+---

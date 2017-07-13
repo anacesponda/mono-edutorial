@@ -1,0 +1,6 @@
+---
+layout: libro
+title: Palabras que cuentan historias II
+flipbook: https://www.yumpu.com/es/embed/view/AHbsqhG4e1ZDuoEv
+permalink: /libros/palabras2/
+---

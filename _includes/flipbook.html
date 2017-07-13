@@ -1,0 +1,79 @@
+<section id="flipbook">
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h3>{{page.title}}</h3>
+            <hr class="star-primary">
+        </div>
+
+    </div>
+    <div class="container">
+        <div class="wrapper">
+            <div role="tabpanel" data-example-id="togglable-tabs">
+                <ul id="myTab" class="nav nav-tabs nav-tabs-responsive" role="tablist">
+                    {% if page.flipbook%}
+                    <li role="presentation" class="active">
+                        <a href="#espanol" id="espanol-tab" role="tab" data-toggle="tab" aria-controls="espanol"
+                           aria-expanded="true">
+                            <span class="text">Libro en Español</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if page.flipbookIngles %}
+                    <li role="presentation" class="next">
+                        <a href="#ingles" role="tab" id="ingles-tab" data-toggle="tab" aria-controls="ingles">
+                            <span class="text">Libro en Inglés</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if page.video %}
+                    <li role="presentation">
+                        <a href="#video" role="tab" id="video-tab" data-toggle="tab" aria-controls="samsa">
+                            <span class="text">Video</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                    {% if page.juego %}
+                    <li role="presentation">
+                        <a href="#juego" role="tab" id="juego-tab" data-toggle="tab" aria-controls="samsa">
+                            <span class="text">Juego</span>
+                        </a>
+                    </li>
+                    {% endif %}
+                </ul>
+                <div id="myTabContent" class="tab-content">
+                    <!--Español-->
+                    <div role="tabpanel" class="tab-pane fade in active" id="espanol" aria-labelledby="home-tab">
+                        <div class="col-sm-12 portfolio-item">
+
+                            <iframe width="620px" height="450px"
+                                    src={{page.flipbook}}
+                                    frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
+
+                        </div>
+                    </div>
+                    <!--Ingles-->
+                    <div role="tabpanel" class="tab-pane fade" id="ingles" aria-labelledby="profile-tab">
+                        <div class="col-sm-12 portfolio-item">
+
+                            <iframe width="620px" height="450px"
+                                    src={{page.flipbookIngles}}
+                                    frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
+
+                        </div>
+                    </div>
+                    <!--Video-->
+                    <div role="tabpanel" class="tab-pane fade" id="video" aria-labelledby="dropdown1-tab">
+                        <div class="col-sm-4 portfolio-item">
+                            <iframe width="620px" height="450px" src={{page.video}} frameborder="0" allowfullscreen>
+
+                            </iframe>
+                        </div>
+                    </div>
+                    <div role="tabpanel" class="tab-pane fade" id="juego" aria-labelledby="dropdown2-tab">
+                        <div class="col-sm-4 portfolio-item"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

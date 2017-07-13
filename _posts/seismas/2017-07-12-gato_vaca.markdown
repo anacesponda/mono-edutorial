@@ -1,0 +1,7 @@
+---
+layout: libro
+title: Ser delegado de la clase
+flipbook: https://www.yumpu.com/xx/embed/view/VsvIGY0RFe6J9ckH
+flipbookIngles: https://www.yumpu.com/en/embed/view/KZPaAwEUR2M5YHIp
+permalink: /libros/gato_vaca/
+---
