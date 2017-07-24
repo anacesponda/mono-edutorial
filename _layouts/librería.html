@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body id="page-top" class="index">
+    {% include nav.html %}
+
+    <!--Content-->
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3>Librería</h3>
+                    <hr class="star-primary">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <p>Tenemos disponibles en la librería talleres de plástica, de escritura, de ilustración, de procesos creativos, de diseño y de comunicación para todas las edades.</p>
+                    <p>La misma se encuentra en Maldonado 2140 esquina Requena.</p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <div id="map"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!--Content-->
+
+    {% include footer.html %}
+    {% include js.html %}
+
+    </body>
+    <script>
+        function initMap() {
+            var uluru = {lat: -34.908128, lng: -56.168866};
+
+            var map = new google.maps.Map(document.getElementById('map'), {
+                zoom: 17,
+                center: uluru
+            });
+            var marker = new google.maps.Marker({
+                position: uluru,
+                map: map
+            });
+        }
+    </script>
+    <script async defer
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDFonOCAalDCS1AusQlm1pnPGSD7Wa-zRs&callback=initMap">
+    </script>
+</html>

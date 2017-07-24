@@ -1,15 +1,19 @@
 <!DOCTYPE html>
 <html>
-    {% include head.html %}
-    <body id="page-top" class="index">
+{% include head.html %}
+<body>
+<!--<div id="fullpage">-->
     {% include nav.html %}
     {% include slider.html %}
     {% include about.html %}
+    {% include team.html %}
 
     {% include contact_static.html %}
 
     {% include footer.html %}
-    {% include modals.html %}
-    {% include js.html %}
-    </body>
+<!--</div>-->
+{% include modals.html %}
+{% include js.html %}
+{% include fulljs.html %}
+</body>
 </html>

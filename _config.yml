@@ -44,7 +44,8 @@ color:
 footer:
   location: Dirección
   social: Encontranos en
-  credits: Nos apoyan
+  acknowledgments: Mono es reconocido por
+  supported: Mono es apoyado por
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,12 +57,22 @@ address:
   - line:  Maldonado 2140 esquina Requena
 
 # Credits content
-credits:
-  - photo: anii.jpg
+supported1:
+  - photo: 180.jpg
     url:
-  - photo: chamber.jpg
   - photo: ntn.jpg
     url: http://delsol.uy/notoquennada
+  - photo: meular.jpg
+supported2:
+  - photo: texas.jpg
+  - photo: ibitech.png
+
+acknowledgments1:
+  - photo: anii.jpg
+  - photo: mec.png
+acknowledgments2:
+  - photo: chamber.jpg
+  - photo: fondos.jpg
 # Build settings
 markdown: kramdown
 permalink: pretty

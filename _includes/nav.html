@@ -1,5 +1,6 @@
    <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -8,19 +9,15 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <img src="{{ site.baseurl }}/img/mono.png" class="img-responsive navbar-logo" alt="{{ post.alt }}" href="{{ site.baseurl }}/">
+                <a href="/{{ site.baseurl }}">
+                    <img src="{{ site.baseurl }}/img/mono.png" class="img-responsive navbar-logo" alt="{{ post.alt }}" href="{{ site.baseurl }}/">
+                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="{{ site.baseurl }}/">Home</a>
-                    </li>
-                    <li class="page-scroll">
+                    <li class="page-scroll active">
                         <a href="{{ site.baseurl }}/libros">Libros</a>
                     </li>
                     <li class="page-scroll">
@@ -29,12 +26,30 @@
                     <li class="page-scroll">
                         <a href="{{ site.baseurl }}/teatro">Teatro</a>
                     </li>
+                    <!--<li class="page-scroll">-->
+                        <!--<a href="{{ site.baseurl }}/teatro">Complementaria</a>-->
+                    <!--</li>-->
+                    <!--<li class="page-scroll">-->
+                        <!--<a href="{{ site.baseurl }}/teatro">No me digas</a>-->
+                    <!--</li>-->
                     <li class="page-scroll">
                         <a href="{{ site.baseurl }}/monotematica">Monotemática</a>
                     </li>
+                    <li class="page-scroll">
+                        <a href="{{ site.baseurl }}/talleres">Talleres</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="{{ site.baseurl }}/libreria">Librería</a>
+                    </li>
+                    <!--<li class="page-scroll">-->
+                        <!--<a href="{{ site.baseurl }}/monotematica">Monotemática</a>-->
+                    <!--</li>-->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
 
         <!-- /.container-fluid -->
+        </div>
     </nav>
+
+

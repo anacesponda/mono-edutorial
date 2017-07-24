@@ -57,11 +57,13 @@ span.sub-menu{
 
 h1,
 h2,
-h3,
 h4,
 h5,
 h6 {
     text-transform: uppercase;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+h3{
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
@@ -138,7 +140,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 130px;
+        padding-top: 200px;
         padding-bottom: 100px;
     }
 
@@ -150,6 +152,7 @@ header .intro-text .skills {
         font-size: 1.75em;
     }
 }
+
 
 @media(min-width:768px) {
     .navbar-fixed-top {
@@ -213,6 +216,7 @@ section h2 {
 section.success {
     color: #565867;
     background: rgba(0, 203, 249, 0.12);
+    height: 100%;
 }
 
 @media(max-width:767px) {
@@ -572,7 +576,7 @@ body,
 
 .item:nth-child(3) {
     background: url('img/slide/slide0.jpg');
-    background-size: cover;
+    background-size: coverc;
     background-position: center center;
     background-repeat: no-repeat;
 }
@@ -581,6 +585,14 @@ img slider {
     -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
     filter: blur(5px);
 }
+
+
+
+#map {
+    height: 400px;
+    width: 100%;
+}
+
 </style>
 
     <!-- Google verification -->
@@ -605,6 +617,7 @@ img slider {
     <body id="page-top" class="index">
        <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header page-scroll">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -613,19 +626,15 @@ img slider {
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <img src="/img/mono.png" class="img-responsive navbar-logo" alt="" href="/">
+                <a href="/">
+                    <img src="/img/mono.png" class="img-responsive navbar-logo" alt="" href="/">
+                </a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-                    <li class="page-scroll">
-                        <a href="/">Home</a>
-                    </li>
-                    <li class="page-scroll">
+                    <li class="page-scroll active">
                         <a href="/libros">Libros</a>
                     </li>
                     <li class="page-scroll">
@@ -634,15 +643,34 @@ img slider {
                     <li class="page-scroll">
                         <a href="/teatro">Teatro</a>
                     </li>
+                    <!--<li class="page-scroll">-->
+                        <!--<a href="/teatro">Complementaria</a>-->
+                    <!--</li>-->
+                    <!--<li class="page-scroll">-->
+                        <!--<a href="/teatro">No me digas</a>-->
+                    <!--</li>-->
                     <li class="page-scroll">
                         <a href="/monotematica">Monotemática</a>
                     </li>
+                    <li class="page-scroll">
+                        <a href="/talleres">Talleres</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="/libreria">Librería</a>
+                    </li>
+                    <!--<li class="page-scroll">-->
+                        <!--<a href="/monotematica">Monotemática</a>-->
+                    <!--</li>-->
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
 
         <!-- /.container-fluid -->
+        </div>
     </nav>
+
+
+
 
     <!--Content-->
     
@@ -784,20 +812,21 @@ img slider {
 </section>
     <!--Content-->
 
-        <!-- Footer -->
+    <div class="section">
+    <!-- Footer -->
     <footer class="text-center">
         <div class="footer-above">
             <div class="container">
                 <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>Dirección</h3>
-                        <p>
-                            
-                                Maldonado 2140 esquina Requena <br>
-		                    
-                        </p>
-                    </div>
-                    <div class="footer-col col-md-4">
+                    <!--<div class="footer-col col-md-4">-->
+                        <!--<h3>Dirección</h3>-->
+                        <!--<p>-->
+                            <!---->
+                                <!--Maldonado 2140 esquina Requena <br>-->
+		                    <!---->
+                        <!--</p>-->
+                    <!--</div>-->
+                    <div class="footer-col col-md-2">
                         <h3>Encontranos en</h3>
                         <ul class="list-inline">
                             
@@ -807,25 +836,73 @@ img slider {
 		                    
                         </ul>
                     </div>
-                    <div class="col-md-4">
-                        <h3>Nos apoyan</h3>
+                    <div class="col-md-5">
+                        <h3>Mono es apoyado por</h3>
                         <ul class="list-inline">
                             
                             <li>
                                 <a href="">
-                                    <img src="/img/logos/anii.jpg" width="50px" alt="">
-                                </a>
-                            </li>
-                            
-                            <li>
-                                <a href="">
-                                    <img src="/img/logos/chamber.jpg" width="50px" alt="">
+                                    <img src="/img/logos/180.jpg" height="100px" alt="">
                                 </a>
                             </li>
                             
                             <li>
                                 <a href="http://delsol.uy/notoquennada">
-                                    <img src="/img/logos/ntn.jpg" width="50px" alt="">
+                                    <img src="/img/logos/ntn.jpg" height="100px" alt="">
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="">
+                                    <img src="/img/logos/meular.jpg" height="100px" alt="">
+                                </a>
+                            </li>
+                            
+                        </ul>
+                        <ul class="list-inline">
+                            
+                            <li>
+                                <a href="">
+                                    <img src="/img/logos/texas.jpg" width="100px" alt="">
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="">
+                                    <img src="/img/logos/ibitech.png" width="100px" alt="">
+                                </a>
+                            </li>
+                            
+                        </ul>
+                    </div>
+                    <div class="col-md-5">
+                        <h3>Mono es reconocido por</h3>
+                        <ul class="list-inline">
+                            
+                            <li>
+                                <a href="">
+                                    <img src="/img/logos/anii.jpg" width="100px" alt="">
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="">
+                                    <img src="/img/logos/mec.png" width="100px" alt="">
+                                </a>
+                            </li>
+                            
+                        </ul>
+                        <ul class="list-inline">
+                            
+                            <li>
+                                <a href="">
+                                    <img src="/img/logos/chamber.jpg" height="100px" alt="">
+                                </a>
+                            </li>
+                            
+                            <li>
+                                <a href="">
+                                    <img src="/img/logos/fondos.jpg" height="100px" alt="">
                                 </a>
                             </li>
                             
@@ -842,7 +919,7 @@ img slider {
             <i class="fa fa-chevron-up"></i>
         </a>
     </div>
-
+</div>
      <!-- Portfolio Modals -->
  
  
@@ -1038,31 +1115,33 @@ img slider {
         </div>
     </div>
 
-     <!-- jQuery Version 1.11.0 -->
-    <script src="/assets/js/jquery-1.11.0.js"></script>
+    <!-- jQuery Version 1.11.0 -->
+<script src="/assets/js/jquery-1.11.0.js"></script>
 
-    <!-- Bootstrap Core JavaScript -->
-    <script src="/assets/js/bootstrap.min.js"></script>
+<!-- Bootstrap Core JavaScript -->
+<script src="/assets/js/bootstrap.min.js"></script>
 
-    <!-- Plugin JavaScript -->
-    <script src="/assets/js/jquery.easing.min.js"></script>
-    <script src="/assets/js/classie.js"></script>
-    <script src="/assets/js/cbpAnimatedHeader.js"></script>
-    <script src="/assets/js/slider.js"></script>
+<!-- Plugin JavaScript -->
+<script src="/assets/js/jquery.easing.min.js"></script>
+<script src="/assets/js/classie.js"></script>
+<script src="/assets/js/cbpAnimatedHeader.js"></script>
+<script src="/assets/js/slider.js"></script>
 
-    <!-- Contact Form JavaScript -->
-    <script src="/assets/js/jqBootstrapValidation.js"></script>
-    
-     <script src="/assets/js/contact_me.js"></script>
-    
 
-    <!-- Custom Theme JavaScript -->
-    <script src="/assets/js/freelancer.js"></script>
-    <script src="/assets/js/audio.js"></script>
+<!-- Contact Form JavaScript -->
+<script src="/assets/js/jqBootstrapValidation.js"></script>
+<!--<script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/15309/jquery.fullPage.min.js"></script>-->
 
-    <!---->
-    <!--&lt;!&ndash; Disqus Stuff &ndash;&gt;-->
-    <!--<script type="text/javascript">
+<script src="/assets/js/contact_me.js"></script>
+
+
+<!-- Custom Theme JavaScript -->
+<script src="/assets/js/freelancer.js"></script>
+<script src="/assets/js/audio.js"></script>
+
+<!---->
+<!--&lt;!&ndash; Disqus Stuff &ndash;&gt;-->
+<!--<script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
     var disqus_shortname = 'myshortname'; // required: replace example with your forum shortname
 
@@ -1084,7 +1163,7 @@ img slider {
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 -->
-    <!---->
+<!---->
 
     </body>
 </html>
