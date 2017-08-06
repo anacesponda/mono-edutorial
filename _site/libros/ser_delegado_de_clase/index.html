@@ -55,25 +55,153 @@ span.sub-menu{
     font-size: 25px;
 }
 
+#ypt_wrapper {
+    width: 100%;
+    background: #FFF;
+//color: #000;
+    overflow: hidden;
+    max-width: 100%;
+    box-shadow: 0px 8px 13px rgba(0,0,0,0.5);
+    margin-bottom: 1em;
+}
+#ypt_wrapper2 {
+    width: 100%;
+    background: #FFF;
+//color: #000;
+    overflow: hidden;
+    max-width: 100%;
+    box-shadow: 0px 8px 13px rgba(0,0,0,0.5);
+    margin-bottom: 1em;
+}
+
+#ypt_thumbs {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 20%;
+    background: #000;
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
+
+#ypt_thumbs li {
+    list-style: none;
+    margin: 0;
+    position: relative;
+    font-size: 0;
+}
+
+#ypt_thumbs li img{
+    width: 100%;
+}
+
+#ypt_thumbs li p {
+    font-family: arial;
+    font-size: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    padding: 5%;
+    margin: 0;
+}
+
+#ypt_thumbs li:hover p {
+    display: block;
+    cursor: pointer;
+}
+
+#ypt_thumbs .ypt-now-playing p {
+    display: block;
+}
+
+#ypt_thumbs .ypt-now-playing > span::after {
+    content: "\25b6  Now playing"; /* A traingle pointing right */
+    margin-top: -1em;
+    display: block;
+    width: 100%;
+    padding: 5%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    font-size: 10px;
+}
+
+#ypt_wrapper .video {
+    position: relative;
+    width: 80%;
+    /*height: 0;*/
+    padding-bottom: 48.4%;
+    float: left;
+}
+
+#ypt_wrapper .video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    float:left;
+}
+
+#ypt_wrapper2 .video {
+    position: relative;
+    width: 80%;
+    /*height: 0;*/
+    padding-bottom: 48.4%;
+    float: left;
+}
+
+#ypt_wrapper2 .video iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    float:left;
+}
+
+@media only screen and (max-width : 400px) {
+    #ypt_thumbs {
+        display: none;
+    }
+    #ypt_wrapper .video {
+        width: 100%;
+        padding-bottom: 56.25%;
+    }
+}
+
 h1,
 h2,
 h4,
-h5,
 h6 {
     text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
+
+h5,
 h3{
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
-hr.star-light,
 hr.star-primary {
     margin: 25px auto 30px;
     padding: 0;
-    max-width: 250px;
+    max-width: 700px;
     border: 0;
-    border-top: solid 3px;
+    border-top: solid 1px;
+    text-align: center;
+}
+
+hr.star-light{
+    margin: 0px auto 30px;
+    padding: 0;
+    max-width: 700px;
+    border: 0;
+    border-top: solid 1px;
     text-align: center;
 }
 
@@ -103,6 +231,62 @@ hr.star-primary {
 hr.star-primary:after {
     color: #00A599;
     background-color: #fff;
+}
+
+#ypt_thumbs2 {
+    overflow-y: scroll;
+    overflow-x: hidden;
+    width: 20%;
+    background: #000;
+    margin: 0;
+    padding: 0;
+    height: 0;
+}
+
+#ypt_thumbs2 li {
+    list-style: none;
+    margin: 0;
+    position: relative;
+    font-size: 0;
+}
+
+#ypt_thumbs2 li img{
+    width: 100%;
+}
+
+#ypt_thumbs2 li p {
+    font-family: arial;
+    font-size: 10px;
+    background: rgba(0, 0, 0, 0.7);
+    display: none;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    color: #fff;
+    padding: 5%;
+    margin: 0;
+}
+
+#ypt_thumbs2 li:hover p {
+    display: block;
+    cursor: pointer;
+}
+
+#ypt_thumbs2 .ypt-now-playing p {
+    display: block;
+}
+
+#ypt_thumbs2 .ypt-now-playing > span::after {
+    content: "\25b6  Now playing"; /* A traingle pointing right */
+    margin-top: -1em;
+    display: block;
+    width: 100%;
+    padding: 5%;
+    background: rgba(0, 0, 0, 0.6);
+    color: #fff;
+    position: absolute;
+    bottom: 0;
+    font-size: 10px;
 }
 
 .img-centered {
@@ -490,7 +674,7 @@ footer .footer-below {
     -webkit-transform: translateZ(0);
 }
 
-iframe {
+.top-iframe {
     margin: auto;
     margin-top: 20px;
     display:block;
@@ -581,7 +765,7 @@ body,
     background-repeat: no-repeat;
 }
 
-img slider {
+img 3slider {
     -webkit-filter: blur(5px); /* Safari 6.0 - 9.0 */
     filter: blur(5px);
 }
@@ -592,6 +776,9 @@ img slider {
     height: 400px;
     width: 100%;
 }
+
+
+
 
 </style>
 
@@ -606,6 +793,7 @@ img slider {
     <link href="//fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
     <link href="//fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css">
 
+    
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -635,7 +823,7 @@ img slider {
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav navbar-right">
                     <li class="page-scroll active">
-                        <a href="/libros">Libros</a>
+                        <a href="/">Inicio</a>
                     </li>
                     <li class="page-scroll">
                         <a href="/musica">Música</a>
@@ -643,12 +831,12 @@ img slider {
                     <li class="page-scroll">
                         <a href="/teatro">Teatro</a>
                     </li>
-                    <!--<li class="page-scroll">-->
-                        <!--<a href="/teatro">Complementaria</a>-->
-                    <!--</li>-->
-                    <!--<li class="page-scroll">-->
-                        <!--<a href="/teatro">No me digas</a>-->
-                    <!--</li>-->
+                    <li class="page-scroll">
+                        <a href="/nomedigas">No me digas</a>
+                    </li>
+                    <li class="page-scroll">
+                        <a href="/teatro">Complementaria</a>
+                    </li>
                     <li class="page-scroll">
                         <a href="/monotematica">Monotemática</a>
                     </li>
@@ -708,8 +896,8 @@ img slider {
                     <div role="tabpanel" class="tab-pane fade in active" id="espanol" aria-labelledby="home-tab">
                         <div class="col-sm-12 portfolio-item">
 
-                            <iframe width="620px" height="450px"
-                                    src=https://www.yumpu.com/en/embed/view/cHklamPxrJWNg1KB
+                            <iframe class="top-iframe" width="620px" height="450px"
+                                    src=https://www.yumpu.com/es/embed/view/ayAN3j9d6eonKhwR
                                     frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
 
                         </div>
@@ -718,8 +906,8 @@ img slider {
                     <div role="tabpanel" class="tab-pane fade" id="ingles" aria-labelledby="profile-tab">
                         <div class="col-sm-12 portfolio-item">
 
-                            <iframe width="620px" height="450px"
-                                    src=https://www.yumpu.com/es/embed/view/ayAN3j9d6eonKhwR
+                            <iframe class="top-iframe"  width="620px" height="450px"
+                                    src=https://www.yumpu.com/en/embed/view/cHklamPxrJWNg1KB
                                     frameborder="0" allowfullscreen="true" allowtransparency="true"></iframe>
 
                         </div>
@@ -727,7 +915,7 @@ img slider {
                     <!--Video-->
                     <div role="tabpanel" class="tab-pane fade" id="video" aria-labelledby="dropdown1-tab">
                         <div class="col-sm-4 portfolio-item">
-                            <iframe width="620px" height="450px" src= frameborder="0" allowfullscreen>
+                            <iframe class="top-iframe"  width="620px" height="450px" src= frameborder="0" allowfullscreen>
 
                             </iframe>
                         </div>
@@ -756,9 +944,11 @@ img slider {
 		                    <!---->
                         <!--</p>-->
                     <!--</div>-->
-                    <div class="footer-col col-md-2">
-                        <h3>Encontranos en</h3>
+                    <div class="footer-col col-md-4">
                         <ul class="list-inline">
+                            <h5 align="left">DIRECCIÓN: Maldonado 2140 esq Requena</h5>
+                            <h5 align="left">CELULAR DE CONTACTO: 091787036</h5>
+                            <h5 align="left">EMAIL: agarin@editorialmono.com</h5>
                             
                             <li>
                                 <a href="" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
@@ -766,78 +956,74 @@ img slider {
 		                    
                         </ul>
                     </div>
-                    <div class="col-md-5">
-                        <h3>Mono es apoyado por</h3>
+                    <hr class="star-light">
+                    
+                    <div class="col-md-2">
                         <ul class="list-inline">
-                            
+
                             <li>
                                 <a href="">
                                     <img src="/img/logos/180.jpg" height="100px" alt="">
                                 </a>
                             </li>
-                            
+                        </ul>
+                    </div>
+                    
+                    <div class="col-md-2">
+                        <ul class="list-inline">
+
                             <li>
                                 <a href="http://delsol.uy/notoquennada">
                                     <img src="/img/logos/ntn.jpg" height="100px" alt="">
                                 </a>
                             </li>
-                            
-                            <li>
-                                <a href="">
-                                    <img src="/img/logos/meular.jpg" height="100px" alt="">
-                                </a>
-                            </li>
-                            
-                        </ul>
-                        <ul class="list-inline">
-                            
-                            <li>
-                                <a href="">
-                                    <img src="/img/logos/texas.jpg" width="100px" alt="">
-                                </a>
-                            </li>
-                            
-                            <li>
-                                <a href="">
-                                    <img src="/img/logos/ibitech.png" width="100px" alt="">
-                                </a>
-                            </li>
-                            
                         </ul>
                     </div>
-                    <div class="col-md-5">
-                        <h3>Mono es reconocido por</h3>
+                    
+                    <div class="col-md-2">
                         <ul class="list-inline">
-                            
+
                             <li>
                                 <a href="">
-                                    <img src="/img/logos/anii.jpg" width="100px" alt="">
+                                    <img src="/img/logos/texas.jpg" height="100px" alt="">
                                 </a>
                             </li>
-                            
-                            <li>
-                                <a href="">
-                                    <img src="/img/logos/mec.png" width="100px" alt="">
-                                </a>
-                            </li>
-                            
-                        </ul>
-                        <ul class="list-inline">
-                            
-                            <li>
-                                <a href="">
-                                    <img src="/img/logos/chamber.jpg" height="100px" alt="">
-                                </a>
-                            </li>
-                            
-                            <li>
-                                <a href="">
-                                    <img src="/img/logos/fondos.jpg" height="100px" alt="">
-                                </a>
-                            </li>
-                            
                         </ul>
                     </div>
+                    
+                    <!--<div class="col-md-5">-->
+                        <!--<h3>Mono es reconocido por</h3>-->
+                        <!--<ul class="list-inline">-->
+                            <!---->
+                            <!--<li>-->
+                                <!--<a href="">-->
+                                    <!--<img src="/img/logos/anii.jpg" width="100px" alt="">-->
+                                <!--</a>-->
+                            <!--</li>-->
+                            <!---->
+                            <!--<li>-->
+                                <!--<a href="">-->
+                                    <!--<img src="/img/logos/mec.png" width="100px" alt="">-->
+                                <!--</a>-->
+                            <!--</li>-->
+                            <!---->
+                        <!--</ul>-->
+                        <!--<ul class="list-inline">-->
+                            <!---->
+                            <!--<li>-->
+                                <!--<a href="">-->
+                                    <!--<img src="/img/logos/chamber.jpg" height="100px" alt="">-->
+                                <!--</a>-->
+                            <!--</li>-->
+                            <!---->
+                            <!--<li>-->
+                                <!--<a href="">-->
+                                    <!--<img src="/img/logos/fondos.jpg" height="100px" alt="">-->
+                                <!--</a>-->
+                            <!--</li>-->
+                            <!---->
+                        <!--</ul>-->
+                    <!--</div>-->
                 </div>
             </div>
         </div>
@@ -873,6 +1059,7 @@ img slider {
 <!-- Custom Theme JavaScript -->
 <script src="/assets/js/freelancer.js"></script>
 <script src="/assets/js/audio.js"></script>
+<script src="/assets/js/playlist.js"></script>
 
 <!---->
 <!--&lt;!&ndash; Disqus Stuff &ndash;&gt;-->

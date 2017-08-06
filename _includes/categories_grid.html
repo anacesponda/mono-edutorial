@@ -1,6 +1,4 @@
 <!-- Portfolio Grid Section -->
-<!-- Portfolio Grid Section -->
-<!-- Portfolio Grid Section -->
 <div class="section">
     <section id="portfolio">
         <div class="container">
@@ -9,12 +7,13 @@
                     <h3>{{include.title}}</h3>
                     <hr class="star-primary">
                 </div>
+                    <!--</div>-->
             </div>
             <div class="row">
 
                 {% assign items = {{include.objects}} | sort: 'order' %}
                 {% for object in items %}
-                <div class="col-sm-4 portfolio-item">
+                <div class="col-sm-2 portfolio-item">
                     <a href="{{ site.baseurl }}/{{object.ref}}" class="portfolio-link" data-toggle="modal">
                         <div class="caption">
                             <div class="caption-content">

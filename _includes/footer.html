@@ -12,9 +12,11 @@
 		                    <!--{% endfor %}-->
                         <!--</p>-->
                     <!--</div>-->
-                    <div class="footer-col col-md-2">
-                        <h3>{{ site.footer.social }}</h3>
+                    <div class="footer-col col-md-4">
                         <ul class="list-inline">
+                            <h5 align="left">DIRECCIÓN: Maldonado 2140 esq Requena</h5>
+                            <h5 align="left">CELULAR DE CONTACTO: 091787036</h5>
+                            <h5 align="left">EMAIL: agarin@editorialmono.com</h5>
                             {% for network in site.social %}
                             <li>
                                 <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
@@ -22,48 +24,40 @@
 		                    {% endfor %}
                         </ul>
                     </div>
-                    <div class="col-md-5">
-                        <h3>{{ site.footer.supported }}</h3>
+                    <hr class="star-light">
+                    {% for credit in site.supported1 %}
+                    <div class="col-md-2">
                         <ul class="list-inline">
-                            {% for credit in site.supported1 %}
+
                             <li>
                                 <a href="{{ credit.url }}">
                                     <img src="{{site.baseUrl}}/img/logos/{{ credit.photo }}" height="100px" alt="{{ object.alt }}">
                                 </a>
                             </li>
-                            {% endfor %}
-                        </ul>
-                        <ul class="list-inline">
-                            {% for credit in site.supported2 %}
-                            <li>
-                                <a href="{{ credit.url }}">
-                                    <img src="{{site.baseUrl}}/img/logos/{{ credit.photo }}" width="100px" alt="{{ object.alt }}">
-                                </a>
-                            </li>
-                            {% endfor %}
                         </ul>
                     </div>
-                    <div class="col-md-5">
-                        <h3>{{ site.footer.acknowledgments }}</h3>
-                        <ul class="list-inline">
-                            {% for credit in site.acknowledgments1 %}
-                            <li>
-                                <a href="{{ credit.url }}">
-                                    <img src="{{site.baseUrl}}/img/logos/{{ credit.photo }}" width="100px" alt="{{ object.alt }}">
-                                </a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                        <ul class="list-inline">
-                            {% for credit in site.acknowledgments2 %}
-                            <li>
-                                <a href="{{ credit.url }}">
-                                    <img src="{{site.baseUrl}}/img/logos/{{ credit.photo }}" height="100px" alt="{{ object.alt }}">
-                                </a>
-                            </li>
-                            {% endfor %}
-                        </ul>
-                    </div>
+                    {% endfor %}
+                    <!--<div class="col-md-5">-->
+                        <!--<h3>{{ site.footer.acknowledgments }}</h3>-->
+                        <!--<ul class="list-inline">-->
+                            <!--{% for credit in site.acknowledgments1 %}-->
+                            <!--<li>-->
+                                <!--<a href="{{ credit.url }}">-->
+                                    <!--<img src="{{site.baseUrl}}/img/logos/{{ credit.photo }}" width="100px" alt="{{ object.alt }}">-->
+                                <!--</a>-->
+                            <!--</li>-->
+                            <!--{% endfor %}-->
+                        <!--</ul>-->
+                        <!--<ul class="list-inline">-->
+                            <!--{% for credit in site.acknowledgments2 %}-->
+                            <!--<li>-->
+                                <!--<a href="{{ credit.url }}">-->
+                                    <!--<img src="{{site.baseUrl}}/img/logos/{{ credit.photo }}" height="100px" alt="{{ object.alt }}">-->
+                                <!--</a>-->
+                            <!--</li>-->
+                            <!--{% endfor %}-->
+                        <!--</ul>-->
+                    <!--</div>-->
                 </div>
             </div>
         </div>

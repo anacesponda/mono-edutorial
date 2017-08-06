@@ -1,7 +1,7 @@
 ---
 layout: libro
-title: Ser delegado de la clase
-flipbook: https://www.yumpu.com/es/embed/view/zT8U2yH6JDtEo5kp
-flipbookIngles: https://www.yumpu.com/en/embed/view/BKvlUQOodp1eVCcG
+title: Un niño super bueno
+flipbook: https://www.yumpu.com/es/embed/view/hGocM4T2DxYf9PdU
+flipbookIngles: https://www.yumpu.com/en/embed/view/ulNpYzcJ6XO2eHQ0
 permalink: /libros/superbueno/
 ---

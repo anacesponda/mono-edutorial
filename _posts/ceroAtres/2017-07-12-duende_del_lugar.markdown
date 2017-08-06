@@ -1,7 +1,7 @@
 ---
 layout: libro
 title: Duende del lugar
-flipbook: https://www.yumpu.com/es/embed/view/3jboLOAgID4MKPeS
+flipbook: https://www.yumpu.com/es/embed/view/nCFXAQwbRUeo2sLS
 video: https://www.youtube.com/embed/FQaqkZQs4pc
 alt: image-alt
 project-date: April 2014

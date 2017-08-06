@@ -1,0 +1,6 @@
+---
+layout: libro
+title: Trazos y texturas del candombe
+flipbook: https://www.yumpu.com/pt/embed/view/m3lhwsKxckqrevtI
+permalink: /libros/trazos/
+---

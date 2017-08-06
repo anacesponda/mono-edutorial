@@ -1,0 +1,7 @@
+---
+layout: libro
+title: Cara de tomate
+flipbook: https://www.yumpu.com/xx/embed/view/ALHVf13jbzTm2M7R
+flipbookIngles: https://www.yumpu.com/en/embed/view/Rdgix2ocql43CO6T
+permalink: /libros/cara_de_tomate/
+---

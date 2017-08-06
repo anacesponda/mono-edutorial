@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2017-07-24T03:40:10-03:00</updated>
+  <updated>2017-08-06T14:07:23-03:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,8 +20,8 @@
   
   
     <entry>
-      <title type="html">Ser delegado de la clase</title>
-      <link href="http://localhost:4000/libros/superbueno/" rel="alternate" type="text/html" title="Ser delegado de la clase" />
+      <title type="html">Un niño super bueno</title>
+      <link href="http://localhost:4000/libros/superbueno/" rel="alternate" type="text/html" title="Un niño super bueno" />
       <published>2017-07-12T00:00:00-03:00</published>
       <updated>2017-07-12T00:00:00-03:00</updated>
       <id>http://localhost:4000/libros/superbueno</id>
@@ -58,38 +58,6 @@
       <updated>2017-07-12T00:00:00-03:00</updated>
       <id>http://localhost:4000/libros/sentimientos_encontrados</id>
       <content type="html" xml:base="http://localhost:4000/libros/sentimientos_encontrados/"></content>
-
-      
-      
-      
-      
-      
-
-      <author>
-          <name></name>
-        
-        
-      </author>
-
-      
-
-      
-
-      
-        <summary type="html"></summary>
-      
-
-      
-      
-    </entry>
-  
-    <entry>
-      <title type="html">Relatos desde el balcon</title>
-      <link href="http://localhost:4000/libros/cara_de_tomate/" rel="alternate" type="text/html" title="Relatos desde el balcon" />
-      <published>2017-07-12T00:00:00-03:00</published>
-      <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/relato</id>
-      <content type="html" xml:base="http://localhost:4000/libros/cara_de_tomate/"></content>
 
       
       
@@ -212,12 +180,12 @@
     </entry>
   
     <entry>
-      <title type="html">Elefante bimbuly</title>
-      <link href="http://localhost:4000/libros/elefante_bimbuly/" rel="alternate" type="text/html" title="Elefante bimbuly" />
+      <title type="html">Elefante bimbully</title>
+      <link href="http://localhost:4000/libros/elefante_bimbully/" rel="alternate" type="text/html" title="Elefante bimbully" />
       <published>2017-07-12T00:00:00-03:00</published>
       <updated>2017-07-12T00:00:00-03:00</updated>
       <id>http://localhost:4000/libros/elefante_bimbuly</id>
-      <content type="html" xml:base="http://localhost:4000/libros/elefante_bimbuly/"></content>
+      <content type="html" xml:base="http://localhost:4000/libros/elefante_bimbully/"></content>
 
       
       
@@ -244,12 +212,12 @@
     </entry>
   
     <entry>
-      <title type="html">Celeste la más transparente</title>
-      <link href="http://localhost:4000/libros/celeste/" rel="alternate" type="text/html" title="Celeste la más transparente" />
+      <title type="html">Cara de tomate</title>
+      <link href="http://localhost:4000/libros/cara_de_tomate/" rel="alternate" type="text/html" title="Cara de tomate" />
       <published>2017-07-12T00:00:00-03:00</published>
       <updated>2017-07-12T00:00:00-03:00</updated>
-      <id>http://localhost:4000/libros/celeste</id>
-      <content type="html" xml:base="http://localhost:4000/libros/celeste/"></content>
+      <id>http://localhost:4000/libros/cara</id>
+      <content type="html" xml:base="http://localhost:4000/libros/cara_de_tomate/"></content>
 
       
       
@@ -308,12 +276,44 @@
     </entry>
   
     <entry>
-      <title type="html">Ser delegado de la clase</title>
-      <link href="http://localhost:4000/libros/la_charla_del_locker/" rel="alternate" type="text/html" title="Ser delegado de la clase" />
+      <title type="html">La charla del locker</title>
+      <link href="http://localhost:4000/libros/la_charla_del_locker/" rel="alternate" type="text/html" title="La charla del locker" />
       <published>2017-07-12T00:00:00-03:00</published>
       <updated>2017-07-12T00:00:00-03:00</updated>
       <id>http://localhost:4000/libros/la_charla_del_locker</id>
       <content type="html" xml:base="http://localhost:4000/libros/la_charla_del_locker/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Isabella la liebre</title>
+      <link href="http://localhost:4000/libros/isabella_la_liebre/" rel="alternate" type="text/html" title="Isabella la liebre" />
+      <published>2017-07-12T00:00:00-03:00</published>
+      <updated>2017-07-12T00:00:00-03:00</updated>
+      <id>http://localhost:4000/libros/isabella_la_liebre</id>
+      <content type="html" xml:base="http://localhost:4000/libros/isabella_la_liebre/"></content>
 
       
       

@@ -1,7 +1,0 @@
----
-layout: libro
-title: Relatos desde el balcon
-flipbook: https://www.yumpu.com/xx/embed/view/le7A5vY6Pi1c9GOw
-flipbookIngles: https://www.yumpu.com/en/embed/view/7CVLQyhsERYenmfB
-permalink: /libros/cara_de_tomate/
----

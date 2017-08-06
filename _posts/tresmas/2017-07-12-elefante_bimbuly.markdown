@@ -1,6 +1,7 @@
 ---
 layout: libro
-title: Elefante bimbuly
-flipbook: https://www.yumpu.com/pt/embed/view/GdjY2BFhquVn0rJP
-permalink: /libros/elefante_bimbuly/
+title: Elefante bimbully
+flipbook: https://www.yumpu.com/es/embed/view/O9P3s6yTzc4MjbGa
+flipbookIngles: https://www.yumpu.com/en/embed/view/lFrs06VoyqtXePJA
+permalink: /libros/elefante_bimbully/
 ---
