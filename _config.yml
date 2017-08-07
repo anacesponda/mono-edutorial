@@ -17,6 +17,7 @@ collections:
   - familia
   - nomedigas
   - complementaria
+  - monotematica
 
 # Google webmaster tools
 google_verify:

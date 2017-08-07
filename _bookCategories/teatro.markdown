@@ -2,6 +2,6 @@
 layout: default
 order: 8
 title: Teatro
-img: musica.jpg
+img: teatro.jpg
 ref: 'teatro/'
 ---
