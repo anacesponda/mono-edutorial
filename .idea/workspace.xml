@@ -2,34 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="540f3b03-6469-49fd-aaaf-641c2b091bbb" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_complementaria/duende_del_lugar.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_complementaria/palabras1.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_complementaria/palabras2.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_complementaria/palabras3.markdown" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/main.html" afterPath="$PROJECT_DIR$/_includes/main.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/slider.html" afterPath="$PROJECT_DIR$/_includes/slider.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/team.html" afterPath="$PROJECT_DIR$/_includes/team.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/teatro_grid.html" afterPath="$PROJECT_DIR$/_includes/teatro_grid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/ceroAtres/index.html" afterPath="$PROJECT_DIR$/_site/ceroAtres/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/caro_va_a_la_feria/index.html" afterPath="$PROJECT_DIR$/_site/libros/caro_va_a_la_feria/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/diario_infimo/index.html" afterPath="$PROJECT_DIR$/_site/libros/diario_infimo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/diario_kids/index.html" afterPath="$PROJECT_DIR$/_site/libros/diario_kids/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/duende_del_lugar/index.html" afterPath="$PROJECT_DIR$/_site/libros/duende_del_lugar/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/el_album/index.html" afterPath="$PROJECT_DIR$/_site/libros/el_album/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/el_dia_de_las_puertas_abiertas/index.html" afterPath="$PROJECT_DIR$/_site/libros/el_dia_de_las_puertas_abiertas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/el_libro_magico_del_circo/index.html" afterPath="$PROJECT_DIR$/_site/libros/el_libro_magico_del_circo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/equipo/index.html" afterPath="$PROJECT_DIR$/_site/libros/equipo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/gato_vaca/index.html" afterPath="$PROJECT_DIR$/_site/libros/gato_vaca/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/index.html" afterPath="$PROJECT_DIR$/_site/libros/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/isabella_la_liebre/index.html" afterPath="$PROJECT_DIR$/_site/libros/isabella_la_liebre/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/la_charla_del_locker/index.html" afterPath="$PROJECT_DIR$/_site/libros/la_charla_del_locker/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/palabras1/index.html" afterPath="$PROJECT_DIR$/_site/libros/palabras1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/palabras2/index.html" afterPath="$PROJECT_DIR$/_site/libros/palabras2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/palabras3/index.html" afterPath="$PROJECT_DIR$/_site/libros/palabras3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/ser_delegado_de_clase/index.html" afterPath="$PROJECT_DIR$/_site/libros/ser_delegado_de_clase/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/seismas/index.html" afterPath="$PROJECT_DIR$/_site/seismas/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -46,104 +22,126 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="slider.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/slider.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="350">
-              <caret line="749" column="6" lean-forward="false" selection-start-line="749" selection-start-column="6" selection-end-line="749" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="texas.markdown" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_bookCategories/texas.markdown">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="60">
-                <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-                <folding />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="teatro_grid.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_includes/teatro_grid.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="316">
-              <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="categories_grid.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/categories_grid.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/about.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="79" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Libros de teatro.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/texas.jpg/Libros de teatro.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="texas.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/logos/texas.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="texas.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/categorialibros/texas.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.5">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_includes/main.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="350">
+                  <caret line="749" column="6" lean-forward="false" selection-start-line="749" selection-start-column="6" selection-end-line="749" selection-end-column="6" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="texas.markdown" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_bookCategories/texas.markdown">
+              <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+                <state split_layout="FIRST">
+                  <first_editor relative-caret-position="60">
+                    <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+                    <folding />
+                  </first_editor>
+                  <second_editor />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="teatro_grid.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_includes/teatro_grid.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="270">
+                  <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+                  <folding>
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="categories_grid.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_includes/categories_grid.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="207">
+                  <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/_includes/about.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="256">
+                  <caret line="25" column="55" lean-forward="false" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+                  <folding>
+                    <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="team.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_includes/team.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="211">
+                  <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Libros de teatro.jpg" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/img/texas.jpg/Libros de teatro.jpg">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="texas.jpg" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/img/logos/texas.jpg">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="texas.jpg" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/img/categorialibros/texas.jpg">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="teatro_grid.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/_includes/teatro_grid.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+                  <folding>
+                    <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -195,7 +193,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_seis/isabella_la_liebre.markdown" />
         <option value="$PROJECT_DIR$/_seis/la_charla_del_locker.markdown" />
         <option value="$PROJECT_DIR$/_seis/ser_delegado_de_clase.markdown" />
         <option value="$PROJECT_DIR$/_bookCategories/nomedigas.markdown" />
@@ -246,6 +243,7 @@
         <option value="$PROJECT_DIR$/_includes/main.html" />
         <option value="$PROJECT_DIR$/_bookCategories/texas.markdown" />
         <option value="$PROJECT_DIR$/_includes/teatro_grid.html" />
+        <option value="$PROJECT_DIR$/_includes/team.html" />
       </list>
     </option>
   </component>
@@ -518,12 +516,12 @@
       <workItem from="1500862178643" duration="12055000" />
       <workItem from="1500902145737" duration="82000" />
       <workItem from="1501987748465" duration="16172000" />
-      <workItem from="1502077199206" duration="9249000" />
+      <workItem from="1502077199206" duration="9427000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132258000" />
+    <option name="totallyTimeSpent" value="132436000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="833" extended-state="6" />
@@ -639,14 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -981,22 +971,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="11" column="12" lean-forward="false" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="79" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/categories_grid.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_bookCategories/texas.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -1008,13 +982,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="25" column="55" lean-forward="false" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/teatro_grid.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="316">
-          <caret line="44" column="0" lean-forward="false" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
+        <state relative-caret-position="270">
+          <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/categories_grid.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="18" column="52" lean-forward="false" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="30" column="27" lean-forward="false" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
