@@ -2,36 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="540f3b03-6469-49fd-aaaf-641c2b091bbb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/categorialibros/0a3.jpg" afterPath="$PROJECT_DIR$/_site/img/categorialibros/0a3.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/categorialibros/12+.jpg" afterPath="$PROJECT_DIR$/_site/img/categorialibros/12+.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/categorialibros/3+.jpg" afterPath="$PROJECT_DIR$/_site/img/categorialibros/3+.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/categorialibros/6+.jpg" afterPath="$PROJECT_DIR$/_site/img/categorialibros/6+.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/img/categorialibros/9+.jpg" afterPath="$PROJECT_DIR$/_site/img/categorialibros/9+.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/freelancer-theme.iml" afterPath="$PROJECT_DIR$/.idea/freelancer-theme.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/music.html" afterPath="$PROJECT_DIR$/_includes/music.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/nav.html" afterPath="$PROJECT_DIR$/_includes/nav.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/ceroAtres/index.html" afterPath="$PROJECT_DIR$/_site/ceroAtres/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/feed.xml" afterPath="$PROJECT_DIR$/_site/feed.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/index.html" afterPath="$PROJECT_DIR$/_site/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/caro_va_a_la_feria/index.html" afterPath="$PROJECT_DIR$/_site/libros/caro_va_a_la_feria/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/diario_infimo/index.html" afterPath="$PROJECT_DIR$/_site/libros/diario_infimo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/diario_kids/index.html" afterPath="$PROJECT_DIR$/_site/libros/diario_kids/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/duende_del_lugar/index.html" afterPath="$PROJECT_DIR$/_site/libros/duende_del_lugar/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/el_album/index.html" afterPath="$PROJECT_DIR$/_site/libros/el_album/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/el_dia_de_las_puertas_abiertas/index.html" afterPath="$PROJECT_DIR$/_site/libros/el_dia_de_las_puertas_abiertas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/el_libro_magico_del_circo/index.html" afterPath="$PROJECT_DIR$/_site/libros/el_libro_magico_del_circo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/equipo/index.html" afterPath="$PROJECT_DIR$/_site/libros/equipo/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/gato_vaca/index.html" afterPath="$PROJECT_DIR$/_site/libros/gato_vaca/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/index.html" afterPath="$PROJECT_DIR$/_site/libros/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/isabella_la_liebre/index.html" afterPath="$PROJECT_DIR$/_site/libros/isabella_la_liebre/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/la_charla_del_locker/index.html" afterPath="$PROJECT_DIR$/_site/libros/la_charla_del_locker/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/palabras1/index.html" afterPath="$PROJECT_DIR$/_site/libros/palabras1/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/palabras2/index.html" afterPath="$PROJECT_DIR$/_site/libros/palabras2/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/palabras3/index.html" afterPath="$PROJECT_DIR$/_site/libros/palabras3/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/libros/ser_delegado_de_clase/index.html" afterPath="$PROJECT_DIR$/_site/libros/ser_delegado_de_clase/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_site/seismas/index.html" afterPath="$PROJECT_DIR$/_site/seismas/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/musica.html" afterPath="$PROJECT_DIR$/musica.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_bookCategories/3+.markdown" afterPath="$PROJECT_DIR$/_bookCategories/3+.markdown" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -49,11 +21,83 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="musica.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="musica.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/musica.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+            <state relative-caret-position="45">
+              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="3+.markdown" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_bookCategories/3+.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ceroAtres.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_bookCategories/ceroAtres.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="75">
+                <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="familia.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_bookCategories/familia.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="complementaria.markdown" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_bookCategories/complementaria.markdown">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -63,14 +107,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>categoryg</find>
-      <find>player</find>
-      <find>du</find>
-      <find>duende</find>
-      <find>duende d</find>
-      <find>duende de</find>
-      <find>duende del</find>
-      <find>cando</find>
       <find>candom</find>
       <find>candomb</find>
       <find>c</find>
@@ -93,6 +129,14 @@
       <find>categori</find>
       <find>categorie</find>
       <find>categories</find>
+      <find>b</find>
+      <find>base</find>
+      <find>base_ir</find>
+      <find>base_i</find>
+      <find>base_</find>
+      <find>base_u</find>
+      <find>base_ur</find>
+      <find>base_url</find>
     </findStrings>
     <replaceStrings>
       <replace>#18bc9c;</replace>
@@ -111,8 +155,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/_bookCategories/nomedigas.markdown" />
-        <option value="$PROJECT_DIR$/_tres/elefante_bimbully.markdown" />
         <option value="$PROJECT_DIR$/_posts/tresmas/2017-07-12-cara.markdown" />
         <option value="$PROJECT_DIR$/_posts/tresmas/2017-07-12-superbueno.markdown" />
         <option value="$PROJECT_DIR$/_posts/tresmas/2017-07-12-elefante_bimbuly.markdown" />
@@ -162,6 +204,8 @@
         <option value="$PROJECT_DIR$/music.html" />
         <option value="$PROJECT_DIR$/_includes/music.html" />
         <option value="$PROJECT_DIR$/musica.html" />
+        <option value="$PROJECT_DIR$/_bookCategories/ceroAtres.markdown" />
+        <option value="$PROJECT_DIR$/_bookCategories/3+.markdown" />
       </list>
     </option>
   </component>
@@ -348,12 +392,12 @@
       <workItem from="1504450994969" duration="2189000" />
       <workItem from="1504475609341" duration="16000" />
       <workItem from="1504490755909" duration="3193000" />
-      <workItem from="1505065150909" duration="185000" />
+      <workItem from="1505065150909" duration="2801000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="140612000" />
+    <option name="totallyTimeSpent" value="143228000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="832" extended-state="6" />
@@ -362,6 +406,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20225511" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32249323" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32655826" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -374,7 +419,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32249323" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -408,35 +452,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/slide/slide0.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/monotematica/losnombresde.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/libros/categorias.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/monotematica/mural.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/teatro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_seis/equipo.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
@@ -458,16 +473,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_ceroAtres/palabras1.markdown">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_bookCategories/3+.markdown">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="FIRST">
           <first_editor relative-caret-position="0">
@@ -795,11 +800,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/_bookCategories/ceroAtres.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="6" lean-forward="false" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_bookCategories/familia.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_bookCategories/complementaria.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/musica.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        <state relative-caret-position="45">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_bookCategories/3+.markdown">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="75">
+            <caret line="5" column="9" lean-forward="false" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
