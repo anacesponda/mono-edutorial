@@ -1,43 +1,53 @@
 <!DOCTYPE html>
 <html>
-    {% include head.html %}
-    <body id="page-top" class="index">
-    {% include nav.html %}
+{% include head.html %}
+<body id="page-top" class="index">
+{% include nav.html %}
 
-    <!--Content-->
-    <section id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h3>Talleres</h3>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-
-                    <p>Tenemos disponibles en la librería talleres de plástica, de escritura, de ilustración, de procesos creativos, de diseño y de comunicación para todas las edades.</p>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h3>Todos podemos escribir un libro</h3>
-                    <hr class="star-primary">
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-
-                    <p>Es un formato de taller que se dicta en instituciones educativas en el que niños, adolescentes y educadores se transforman en coautores y el resultado del taller es un libro que se publica en Mono en español e inglés. </p>
-                </div>
+<!--Content-->
+<section id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h3>Talleres Mono</h3>
+                <hr class="star-primary">
             </div>
         </div>
-    </section>
-    <!--Content-->
+        <div class="row">
+            <div class="col-lg-4 col-lg-offset-4">
+                <img src="../img/talleres/tallermono.jpg" class="img-responsive" alt="{{ object.alt }}">
+            </div>
+            <div class="col-lg-8 col-lg-offset-2" style="text-align: justify;">
 
-    {% include footer.html %}
-    {% include js.html %}
+
+                <p>Tenemos disponibles en la librería talleres de plástica, de escritura, de ilustración, de procesos
+                    creativos, de diseño y de comunicación para todas las edades.</p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h3>Todos podemos escribir un libro</h3>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-6 portfolio-item">
+                <img src="../img/talleres/tallermono.jpg" class="img-responsive" alt="{{ object.alt }}">
+            </div>
+            <div class="col-lg-8 col-lg-offset-2" style="text-align: justify;">
+
+                <p>Es un formato de taller que se dicta en instituciones educativas en el que niños, adolescentes y
+                    educadores se transforman en coautores y el resultado del taller es un libro que se publica en Mono
+                    en español e inglés. </p>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Content-->
+
+{% include footer.html %}
+{% include js.html %}
 
 
-    </body>
+</body>
 </html>

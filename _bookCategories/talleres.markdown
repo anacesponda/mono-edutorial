@@ -1,7 +1,7 @@
 ---
 layout: default
 order: 12
-title: Texas
-img: texas.jpg
+title: Talleres
+img: talleres.jpg
 ref: 'talleres/'
 ---

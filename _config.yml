@@ -61,17 +61,17 @@ address:
 # Credits content
 supported1:
   - photo: 180.jpg
-    url:
+    url: http://180.com.uy/
   - photo: ntn.jpg
     url: http://delsol.uy/notoquennada
   - photo: texas.jpg
+    url: https://www.grupotexas.com.uy/
+  - photo: ladoc.png
+    url:
 
 acknowledgments1:
   - photo: anii.jpg
   - photo: mec.png
-acknowledgments2:
-  - photo: chamber.jpg
-  - photo: fondos.jpg
 # Build settings
 markdown: kramdown
 permalink: pretty

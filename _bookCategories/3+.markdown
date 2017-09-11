@@ -3,5 +3,5 @@ layout: default
 order: 2
 title: 3 años o más
 img: 3+.jpg
-ref: '../tresmas/'
+ref: 'tresmas/'
 ---
