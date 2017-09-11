@@ -14,6 +14,7 @@ collections:
   - tres
   - nueve
   - doce
+  - doceProx
   - familia
   - nomedigas
   - complementaria
@@ -67,7 +68,7 @@ supported1:
   - photo: texas.jpg
     url: https://www.grupotexas.com.uy/
   - photo: ladoc.png
-    url:
+  - photo: meular.jpg
 
 acknowledgments1:
   - photo: anii.jpg
