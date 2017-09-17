@@ -1,6 +1,6 @@
 ---
 layout: monotematica/art
-title: Stencil (Proximamente)
+title: Stencil (Próximamente)
 text: El stencil es una técnica protagonista en lo se ha dado a llamar período posgraffiti. Es diverso y heterogéneo, encierra aspectos del pop art, del surrealismo y también imita personajes mediáticos del medio cultural. Se utilizan imágenes del “star system” y de la vida cotidiana para actualizarlas, para imprimirles en la calle una significación diferente a la originaria. Se presentarán ejemplos de ciudades latinoamericanas (Buenos Aires, Lima, Montevideo) y europeas (Berlín, Porto, París, Barcelona)
 permalink: /monotematica/stencil/
 img: /stencil.jpg

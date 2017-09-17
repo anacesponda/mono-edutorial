@@ -1,15 +1,39 @@
 <!DOCTYPE html>
 <html>
-    {% include head.html %}
-    <body id="page-top" class="index">
-    {% include nav.html %}
+{% include head.html %}
+<body id="page-top" class="index">
+{% include nav.html %}
 
-    <!--Content-->
-    {% include book_grid.html title=page.title imgUrl=page.imgUrl objects=page.objects%}
-    <!--Content-->
+<!--Content-->
+{% include book_grid.html title=page.title imgUrl=page.imgUrl objects=page.objects%}
+<!--Content-->
+<div class="section">
+    <section id="portfolio">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h3>Videos</h3>
+                    <hr class="star-primary">
+                </div>
+                <!--</div>-->
+            </div>
+            <div class="row">
+                <div class="col-sm-6 portfolio-item">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/nYUyWhCgpGc" frameborder="0"
+                            allowfullscreen></iframe>
+                </div>
+                <div class="col-sm-6 portfolio-item">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/e-0D6qMm_LU" frameborder="0"
+                            allowfullscreen></iframe>
+                </div>
+            </div>
+        </div>
+    </section>
+</div>
 
-    {% include footer.html %}
-    {% include modals.html objects=page.objects%}
-    {% include js.html %}
-    </body>
+
+{% include footer.html %}
+{% include modals.html objects=page.objects%}
+{% include js.html %}
+</body>
 </html>
