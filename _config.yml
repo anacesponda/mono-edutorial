@@ -1,7 +1,7 @@
 # Site settings
 title: Editorial Mono
-email: anacesponda@gmail.com
 url: https://example.github.io
+email: anacesponda@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
 skills: "Mucho para contar"
@@ -53,7 +53,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
-    url:
+    url: https://www.facebook.com/mono.com.uy/
 
 # Postal address (add as many lines as necessary)
 address:
